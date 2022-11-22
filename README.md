@@ -2,16 +2,16 @@
 
 The project includes all the files neccessary to run a Google App Engine application
 
-Setup
+# Setup
 * Create an isolation Python enviroment
 * Install the project requirements: > pip install -r requirements.txt
 
-Usage (Locally)
+# Usage (Locally)
 * Add a main function to the main.py file to run the app with a desired port
 * Run the application: > python3 main.py
 * In your web browser, enter the following address: > http://localhost:[port]
 
-Usage (As a GAE app)
+# Usage (As a GAE app)
 * Create a GCP account
 * Create a new project
 * Add project's id to the main.py file
