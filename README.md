@@ -56,4 +56,4 @@ Returns the value of the variable variable_name or NOT FOUND if the variable is 
   Removes all the data from the application
 
 # Running example
-You can find a running example of the app [here](https://fast-simon-instantsearch.as.r.appspot.com)
+You can find a running example of the app [here](https://fast-simon-instantsearch.as.r.appspot.com) (Make sure to add the desired endpoint to the url)
