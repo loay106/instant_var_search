@@ -1,7 +1,7 @@
 # Instant Variable Search App
 
-The project implements a flask application that can be deployed a service in the Google Application Engine, using Datastore as a database.
-The app implemenets the REST API below and assuming that each fetch/save access methods in the Datastore is O(1), then every method below is O(1) except the /clean method
+The project implements a flask application that can be deployed as a service in the Google Application Engine, using Datastore as a database.
+The app implemenets the REST API below. With the assumption that each fetch/save access methods in the Datastore is O(1), then every method below is O(1) except the /clean method
 
 # Setup
 * Create an isolation Python enviroment
